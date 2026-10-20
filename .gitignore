@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+coverage/
+*.log
+
+# Ferramentas de trabalho locais
+/AGENTS.md
+/.agents/
